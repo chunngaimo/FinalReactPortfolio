@@ -58,8 +58,8 @@ A simple portfolio to showcase my skills and recent projects. This portfolio was
 ## Link
 
 ---
-<!-- 
-Link to the deployed application:  -->
+
+Link to the deployed application: https://final-react-portfolio.vercel.app/
 
 Link to the GitHub repository: https://github.com/chunngaimo/Portfolio-React
 
